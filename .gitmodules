@@ -1,0 +1,8 @@
+[submodule "vendor/repo_A"]
+	path = vendor/repo_A
+	url = git@github.com:dipesh517/sub_repo_1.git
+	branch = main
+[submodule "vendor/repo_B"]
+	path = vendor/repo_B
+	url = git@github.com:dipesh517/sub_repo_2.git
+	branch = main
